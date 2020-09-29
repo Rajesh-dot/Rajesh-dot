@@ -1,6 +1,7 @@
 <img src="https://github.com/rahul799/rahul799/blob/master/Hi.gif" alt="alt text" width="100" height="100" />
 
 ### Hi there 👋
+[![Rajesh's github stats](https://github-readme-stats.vercel.app/api?username=rajesh-dot)](https://github.com/rajesh-dot/github-readme-stats)
 
 <!--
 **Rajesh-dot/Rajesh-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
