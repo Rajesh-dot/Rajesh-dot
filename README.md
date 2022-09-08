@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 My name is Rajesh and I'm a computer science student from India. Here's some info about me!
 
 ⚡ Work experience: <br>
-- **Backend Developer intern at Draf and Drop India Private Limited** - Bakcend development using Django Rest Framework. [Remote. July 2021 to July 2022]
+- **Associate Software Developer at Drag and Drop India Private Limited** - Bakcend development using Django Rest Framework. [Remote. August 2022 to December 2022]
+- **Backend Developer intern at Drag and Drop India Private Limited** - Bakcend development using Django Rest Framework. [Remote. July 2021 to July 2022]
 
 🌱 Interests:
 - Web development.
